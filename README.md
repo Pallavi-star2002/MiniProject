@@ -33,6 +33,16 @@ This project is an Exam Hall Management System designed to streamline the proces
 The Exam Hall Management System represents a significant advancement in the efficiency and fairness of managing examination halls. By leveraging technology to automate tasks and provide real-time monitoring, this system not only simplifies administrative processes but also enhances the integrity of the examination environment. We believe that this project underscores the importance of utilizing technology to create more transparent, efficient, and equitable educational systems.
 
 
+
+## DEMO VIDEO LINK:
+https://youtu.be/taTdCBEiciQ
+
+
+
+
+
+
+
 ## Contact
 For any inquiries or suggestions, please contact PALLAVI [mailto:Pallaviofficial11@gmail.com].
 
